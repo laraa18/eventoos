@@ -1,2 +1,2 @@
 # eventoos
-Projeto feito em Bootstrap5 
+Projeto React + Bootstrap5 + Banco de Dados (Firebase)
